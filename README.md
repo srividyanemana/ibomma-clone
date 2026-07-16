@@ -1,4 +1,4 @@
-# ibomma-clone
+
 # iBOMMA Clone
 
 A responsive movie streaming website inspired by the iBOMMA interface, built using HTML, CSS, and JavaScript.
